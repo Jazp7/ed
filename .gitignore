@@ -1,0 +1,30 @@
+# Entornos virtuales
+.venv/
+**/.venv/
+env/
+venv/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de Type Checkers y Linters (mypy, pytest, ruff)
+.mypy_cache/
+**/.mypy_cache/
+.pytest_cache/
+**/.pytest_cache/
+.ruff_cache/
+**/.ruff_cache/
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
