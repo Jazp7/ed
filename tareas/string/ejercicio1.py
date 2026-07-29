@@ -1,0 +1,2 @@
+# Ejercicio 1: Imprime en un texto la siguiente expresión
+print("If we could see tomorrow, what are your plans?No one can live in sorrow, ask all your friendsTimes that you took in stride they're back in demandI was the one who's washing blood off your hands")
