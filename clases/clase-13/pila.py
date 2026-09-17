@@ -1,0 +1,17 @@
+pila = []
+
+pila.append("Iniciar Sesión") # append() para agregar elemento a la pila
+
+print("Pila actual: ")
+print(pila)
+
+pila.append("Amigos en común")
+pila.append("ola ke ase")
+
+# Desapilar un elemento
+accion = pila.pop()
+
+print("\n Acción retirada: " + accion)
+
+print("\n Penultima acción retirada: ")
+print(pila)
