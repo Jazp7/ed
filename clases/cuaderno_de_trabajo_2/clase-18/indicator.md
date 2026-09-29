@@ -1,0 +1,1 @@
+Esta clase seguramente vaya para algún cuaderno de trabajo.
